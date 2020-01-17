@@ -1,6 +1,6 @@
 # Recipe
 
-* 400g flour
+* 410g flour (very fine)
 * 230g water
 * 160g starter
 * 6g salt

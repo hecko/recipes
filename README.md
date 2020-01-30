@@ -1,14 +1,14 @@
 # Recipe
 
-* 410g flour (very fine)
-* 230g water
+* 500g flour (very fine)
+* 320g water
 * 160g starter
-* 6g salt
+* 10g salt
 
 ## Baking
 
-* Knead for 10 mins min - do not add water!
-* leave to rise for 3h in bowl
-* shape, leave for 3h in floured basket
+* Knead for 2-3 mins
+* leave to rise for ±3h in bowl and mix every now and then (line every 40 mins or so)
+* shape, leave in fridge until next morning
 * pre-heat to 230C, steam with water in tray
-* bake for 30-35 mins
+* bake for 35 mins in steam, then open oven and additional 10mins

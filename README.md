@@ -1,4 +1,4 @@
-# Bum Bu Nam Bo sauce
+# Bum Bo Nam Bo sauce
 
 * 200g rice noodles (raw) - 2 portions
 * 18g sugar

@@ -1,4 +1,15 @@
-# Recipe
+# Bum Bu Nam Bo sauce
+
+* 200g rice noodles (raw) - 2 portions
+* 18g sugar
+* 18g vinegar
+* 4g salt
+* 200g boiling water
+* 3g soy sauce
+
+* garnish with peanuts and fried onions
+
+# Sourdough Recipe
 
 * 500g flour (very fine)
 * 320g water

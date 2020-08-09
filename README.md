@@ -1,3 +1,10 @@
+# Kitovô srdcô
+
+ * 1000g water
+ * 50g honey
+ * 40g lemon squeeze
+ * 500g ice
+
 # Bum Bo Nam Bo sauce
 
 * 200g rice noodles (raw) - 2 portions

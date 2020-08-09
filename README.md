@@ -4,6 +4,7 @@
  * 50g honey
  * 40g lemon squeeze
  * 500g ice
+ * mint leaves
 
 # Bum Bo Nam Bo sauce
 
